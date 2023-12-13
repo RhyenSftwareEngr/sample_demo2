@@ -11,7 +11,7 @@ public class SampleApp {
         if (enteredPassword.equals(storedPassword)) {
             System.out.println("Authentication successful!");
         } else {
-            System.out.println("Authentication failed!");
+            System.out.println("Authentication failed!")
         }
     }
 }
